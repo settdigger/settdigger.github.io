@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Erewhon
 
-You can use the [editor on GitHub](https://github.com/settdigger/Win/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A direct democracy
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi! This is my Github website, devoted to our project Erewhon, a direct democracy. We would like to create a direct democracy! Thanks for reading.
 
-### Markdown
+Our view is that there are various inefficiencies in representative government; we want to cut out the middle man. We want to use the internet to govern ourselves.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The idea is in the air, it would seem: Zuckerberg opined recently that he would like to see some kind of voting via Facebook.
 
-```markdown
-Syntax highlighted code block
+But rather than create merely an adjunct to existing governance systems, on a private network, we think it would be much stronger and more interesting to have a new governance system, on a public network.
 
-# Header 1
-## Header 2
-### Header 3
+Who are we? Just some people interested in direct democracy. I'm Robin Dunn; I live in Los Angeles. I'm not a coder but am interested to meet programmers and other talented people who like democracy. I and some other folks created a Facebook group, Erewhon; feel free to come say hi there if you like.
 
-- Bulleted
-- List
+But really we need help from the ground up. We're not married to any particular architecture and are very open to ideas. All we have is some time, and a passion for this idea.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/settdigger/Win/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you.
