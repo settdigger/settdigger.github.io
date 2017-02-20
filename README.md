@@ -2,7 +2,7 @@
 
 A direct democracy
 
-Hi! This is my Github website, devoted to our project Erewhon, a direct democracy. We would like to create a direct democracy! Thanks for reading.
+Hi! This is my Github website, devoted to our project <a href="https://github.com/settdigger/Erewhon">Erewhon</a>, a direct democracy. We would like to create a direct democracy! Thanks for reading.
 
 Our view is that there are various inefficiencies in representative government; we want to cut out the middle man. We want to use the internet to govern ourselves.
 
